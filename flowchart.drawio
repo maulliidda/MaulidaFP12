@@ -22,8 +22,14 @@
                 <mxCell id="5" value="p=0" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
                     <mxGeometry x="275" y="190" width="120" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="7" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+                <mxCell id="10" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="7" target="9">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="output &quot;Anda harus mengisi uang lagi&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
                     <mxGeometry x="210" y="250" width="255" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="277.5" y="300" width="120" height="30" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
